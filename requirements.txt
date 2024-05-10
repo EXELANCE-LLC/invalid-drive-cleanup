@@ -1,0 +1,7 @@
+requests
+logging
+shutil
+datetime
+pkg_resources
+# command one python .\unaccess.py
+# command two pip install -r requirements.txt
